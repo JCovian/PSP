@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejemplos.iml" filepath="$PROJECT_DIR$/.idea/Ejemplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemplosSincronizacion/ProductorConsumidorConEsperas/ProductorConsumidorConEsperas.iml" filepath="$PROJECT_DIR$/EjemplosSincronizacion/ProductorConsumidorConEsperas/ProductorConsumidorConEsperas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemplosSincronizacion/ProductorConsumidorSinEsperas/ProductorConsumidorSinEsperas.iml" filepath="$PROJECT_DIR$/EjemplosSincronizacion/ProductorConsumidorSinEsperas/ProductorConsumidorSinEsperas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemplosSincronizacion/SincronizacionContador/SincronizacionContador.iml" filepath="$PROJECT_DIR$/EjemplosSincronizacion/SincronizacionContador/SincronizacionContador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemplosSincronizacion/SincronizacionFicheroSaludo/SincronizacionFicheroSaludo.iml" filepath="$PROJECT_DIR$/EjemplosSincronizacion/SincronizacionFicheroSaludo/SincronizacionFicheroSaludo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hilos1/hilos1.iml" filepath="$PROJECT_DIR$/hilos1/hilos1.iml" />
+    </modules>
+  </component>
+</project>
