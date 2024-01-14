@@ -41,7 +41,7 @@ public class appEjercicio2 {
                 try (BufferedReader salidaErroresPrimo = new BufferedReader(new InputStreamReader(procesoPrimo.getErrorStream(),"ISO-8859-1"))) {
                     String mensaje;
                     while ((mensaje = salidaErroresPrimo.readLine()) != null) {
-                        System.out.println("Argumento " + args[i] + ": " + mensaje);
+                        System.err.println("Argumento " + args[i] + ": " + mensaje);
                     }
                 }
             } catch (IOException e) {

@@ -19,6 +19,7 @@ public class EsPrimo {
         // Comprueba si se introduce un valor INT
         if(!sc.hasNextInt()) {
             System.err.println("El valor recibido no es un número entero");
+            System.exit(-1);
         } else {
             entero = sc.nextInt();
             // Calcula si el entero introducido es primo
