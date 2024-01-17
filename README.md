@@ -39,7 +39,8 @@
     - Soluciones a las tareas evaluables:
         - UD1 Ejercicio2
         - UD2 CuentaPrimosMultiHiloPersonalizable
-    - ProcesoConFichero: Pide un comando CMD y nombre de fichero y vuelca el resultado en el txt   
+    - ProcesoConFichero: Pide un comando CMD y nombre de fichero y vuelca el resultado en el txt
+    - Revision tarea 25 (pin pan pun)
 
 ## Soluciones ejercicios 2 y 3
     Soluciones del profesor a las tareas evaluabres del primer semestre
