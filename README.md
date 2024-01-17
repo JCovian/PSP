@@ -1,4 +1,4 @@
-# @author Jose A. Covian
+# D.A.M. PROGRAMACIÓN DE SERVICIOS Y PROCESOS
 
 ## UNIDAD 1
     Ejercicio2: Numeros primos (una app calcula primos o no, la otra comunica con un hilo)
@@ -13,6 +13,7 @@
     practica1: AppMenu (abre diferentes programas con Rutime y rt.exec)
     practica3: Lee por entrada standard caracter a caracter hasta encontrar * y muestra todo lo leido
     procesos: Varios ejemplos con procesos (abrir aplicacines, ver info de los procesos, etc)
+    procesoConFichero: Pide una orden CMD y muestra el resultado en un fichero de texto
     
 ## UNIDAD 2
     CuentaPrimosHiloPersonalizable: Cuenta primos con hilos (personalizable) y nos dice num de primos
@@ -33,3 +34,12 @@
     Practica2.2: - Contador de primos multihilo
     Tarea25: Crear programa Java usando hilos (pin, pan, pun)
     Tarea26: El anterior con semáforos
+    
+## MIAS
+    - Soluciones a las tareas evaluables:
+        - UD1 Ejercicio2
+        - UD2 CuentaPrimosMultiHiloPersonalizable
+    - ProcesoConFichero: Pide un comando CMD y nombre de fichero y vuelca el resultado en el txt   
+
+## Soluciones ejercicios 2 y 3
+    Soluciones del profesor a las tareas evaluabres del primer semestre

@@ -1,0 +1,15 @@
+ El volumen de la unidad D es DATOS
+ El n�mero de serie del volumen es: 708B-A9A9
+
+ Directorio de D:\Jose\Documents\Cursos\DAM\SEGUNDO\PROCESOS\PRACTICAS\Mias\ProcesoConFichero
+
+16/01/2024  23:06    <DIR>          .
+16/01/2024  22:16    <DIR>          ..
+16/01/2024  22:16               344 .gitignore
+16/01/2024  23:06    <DIR>          .idea
+16/01/2024  23:06    <DIR>          out
+16/01/2024  22:17               433 ProcesoConFichero.iml
+16/01/2024  23:09                 0 prueba1.txt
+16/01/2024  23:09    <DIR>          src
+               3 archivos            777 bytes
+               5 dirs  545.155.694.592 bytes libres
