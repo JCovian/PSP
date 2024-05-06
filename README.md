@@ -59,5 +59,6 @@
     Práctica 2: Programar cliente FTP
     Práctica 4: Programar servidor HTTP, devuelve respuestas GET, error si no existe página y si hacemos POST
                 nos devuelve que no atienda peticiones POST
+    Práctica 4_2_SOL: Solución profesor + MAP
     Ejemplos: Ejemplos de la unidad (Servicios de red)
 ## UNIDAD 5
