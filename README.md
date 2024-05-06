@@ -44,3 +44,20 @@
 
 ## Soluciones ejercicios 2 y 3
     Soluciones del profesor a las tareas evaluabres del primer semestre
+    
+## UNIDAD 3
+    Ejemplos Sockets
+    Ejercicio 3.1: Crear servidor que pregunte por un numero secreto decir si es mayor o menor. Hecho hilos tambien
+    Práctica 1: Pide URL y te da datos de la misma
+    Práctica 2: Servidor que puede atender N clientes. N lo debe pedir el servidor por teclado y luego este devuelve
+                a cada cliente el número de cliente que es.
+    Práctica 3: Como la anterio usando sockets UDP, devuelve saludos desde un enumerado.
+    Práctica 4: Sockets con hilos. Ejercicio primos con servidor TCP
+
+## UNIDAD 4
+    Práctica 1: Pedir URL y almacenar en HTML
+    Práctica 2: Programar cliente FTP
+    Práctica 4: Programar servidor HTTP, devuelve respuestas GET, error si no existe página y si hacemos POST
+                nos devuelve que no atienda peticiones POST
+    Ejemplos: Ejemplos de la unidad (Servicios de red)
+## UNIDAD 5
