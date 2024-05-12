@@ -32,7 +32,7 @@ public class ServidorHilos {
                     + "\n===================================\n");
             while (true) {
                 System.out.println("Esperando cliente....");
-                //TODO: While para seguir pidiendo clientes
+                // While para seguir pidiendo clientes
                 aceptaCliente();
             }
         } catch (IOException e) {
@@ -70,6 +70,7 @@ public class ServidorHilos {
     /**
      * Comunicación con el cliente
      */
+    /*
     private void comunicaCliente(Socket cliente, int numSecreto) {
         //Para testear la aplicación
         //System.out.println("Num secreto: " + numSecreto);
@@ -93,6 +94,7 @@ public class ServidorHilos {
             throw new RuntimeException(e);
         }
     }
+    */
 
     /**
      * Generador de números aleatorios

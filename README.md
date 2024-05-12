@@ -52,7 +52,7 @@
     Práctica 2: Servidor que puede atender N clientes. N lo debe pedir el servidor por teclado y luego este devuelve
                 a cada cliente el número de cliente que es.
     Práctica 3: Como la anterio usando sockets UDP, devuelve saludos desde un enumerado.
-    Práctica 4: Sockets con hilos. Ejercicio primos con servidor TCP
+    Práctica 3_4: Sockets con hilos. Ejercicio primos con servidor TCP
 
 ## UNIDAD 4
     Práctica 1: Pedir URL y almacenar en HTML
@@ -62,3 +62,5 @@
     Práctica 4_2_SOL: Solución profesor + MAP
     Ejemplos: Ejemplos de la unidad (Servicios de red)
 ## UNIDAD 5
+    Práctica 51: Pide por teclado el nombre de un fichero que tiene que existir (con texto), lo cifra y lo almacena y luego lo descifra y lo almacena
+    Ejemplos UT5: Validación de datos con expresiones regulares y encriptación / desencriptación (AES/DES)
