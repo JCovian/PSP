@@ -64,3 +64,5 @@
 ## UNIDAD 5
     Práctica 51: Pide por teclado el nombre de un fichero que tiene que existir (con texto), lo cifra y lo almacena y luego lo descifra y lo almacena
     Ejemplos UT5: Validación de datos con expresiones regulares y encriptación / desencriptación (AES/DES)
+## APUNTES
+    Teoría unidades 3, 4 y 5
